@@ -1,3 +1,4 @@
 
-# React video calling web application having bi directional real time communication using Soket.io hosted on netlify.
+# VideoChatApp using WebRTC
+A video chat application that conveys video stream between different users using webRTC over Peer-to-Peer network.
 
